@@ -1,0 +1,4 @@
+2017-05-xx: date directory containing BHZ velocity seismic data
+overlap_ccf.py: compute cross-correlations
+TA.lst: seismic station list
+dispersion_curve_image_trans.py: a two-station dispersion curve estimation method named image transform by Yao et al. (2006)
